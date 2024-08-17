@@ -1,0 +1,14 @@
+*
+!*.*
+!*/
+
+.DS_Store
+.vscode
+*.dSYM/
+
+!.gitignore
+!Makefile
+
+*.o
+*.out
+
